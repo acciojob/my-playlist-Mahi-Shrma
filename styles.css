@@ -18,6 +18,9 @@ body{
 	height:600px;
 	margin:auto;
 }
+#player_one{
+	background-color:rgb(255, 255, 255);
+}
 video{
 	width:100%;
 	height:75%;
